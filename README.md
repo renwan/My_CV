@@ -2,4 +2,4 @@
 
 Click to visit our site:
 
-https://renwan.github.io/My_CV/
+https://renwan.github.io/renwan/My_CV
