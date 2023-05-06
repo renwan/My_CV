@@ -2,5 +2,5 @@
 this is a web site include my information
 
 
-click to viset my website
+click to visit my website
 https://renwan.github.io/My_CV/
